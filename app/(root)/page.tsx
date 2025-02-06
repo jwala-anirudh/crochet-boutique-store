@@ -1,3 +1,5 @@
-export default function Home() {
+const Home = () => {
   return <>Crochet Boutique</>;
-}
+};
+
+export default Home;
