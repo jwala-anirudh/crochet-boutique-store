@@ -3,14 +3,14 @@
 import { Button } from '@/components/ui/button';
 import {
   DropdownMenu,
-  DropdownMenuTrigger,
+  DropdownMenuCheckboxItem,
+  DropdownMenuContent,
   DropdownMenuLabel,
   DropdownMenuSeparator,
-  DropdownMenuContent,
-  DropdownMenuCheckboxItem,
+  DropdownMenuTrigger,
 } from '@/components/ui/dropdown-menu';
+import { MoonIcon, SunIcon, SunMoon } from 'lucide-react';
 import { useTheme } from 'next-themes';
-import { SunIcon, MoonIcon, SunMoon } from 'lucide-react';
 import { useEffect, useState } from 'react';
 
 const ModeToggle = () => {
