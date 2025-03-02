@@ -10,7 +10,7 @@ Thank you for supporting our innovative small business!
 
 ## Driving force
 
-![Crochet Boutique](./material/banner.jpeg)
+<img src="https://raw.githubusercontent.com/jwala-anirudh/crochet-boutique-store/refs/heads/main/material/banner.jpeg" alt="Crochet Boutique" width="350"/>
 
 ## Developer Notes
 
