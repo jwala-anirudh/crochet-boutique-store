@@ -31,3 +31,9 @@ Prisma Studio
 ```bash
 bunx prisma studio
 ```
+
+Seed database with test data
+
+```bash
+bunx tsx ./db/seed.ts
+```
